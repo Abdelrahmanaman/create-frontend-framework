@@ -71,12 +71,3 @@ Interested in discussing frontend framework architecture or learning journeys?
 
 - GitHub: [Abdelrahmanaman](https://github.com/Abdelrahmanaman)
 - Learning Notes: Feel free to open an issue for discussions!
-```
-
-The key changes to prevent full-width display:
-- Added blank lines between sections
-- Ensured consistent indentation
-- Used standard Markdown formatting
-- Maintained code block formatting
-
-This version should display more cleanly while preserving the original content and structure. Would you like me to make any further adjustments?
